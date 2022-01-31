@@ -1,4 +1,4 @@
-### Hi there, I'm Marly Khoury 👋 
+### Hi there, I'm Marly👋 
 
 ## I'm a Self-Taught Full Stack Web Developer !!
 
@@ -35,7 +35,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="MarlyKhoury's GitHub Stats" src="https://github-readme-stats.marlykhoury.vercel.app/api?username=marlykhoury&show_icons=true&hide_border=true" />
+  <img align="left" alt="MarlyKhoury's GitHub Stats" src="https://github-readme-stats.MarlyKhoury.vercel.app/api?username=MarlyKhoury&show_icons=true&hide_border=true" />
 
 </details>
 
