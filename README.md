@@ -32,16 +32,16 @@
 ---
 
 <!-- <details> -->
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: <h2>GitHub Stats</h2></summary>
 <br />
-  <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlyKhoury&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
-  <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlyKhoury&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  </p>
-
-
-<p>:thought_balloon: Quote of the day</p>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlyKhoury&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlyKhoury&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
+<br />
 
 <!-- <details open> -->
+<p>:thought_balloon: Quote of the day</p>
+
 <p>    <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card" />
     </a></p>
