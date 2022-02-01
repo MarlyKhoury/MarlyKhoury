@@ -1,4 +1,4 @@
-### Hello World, I'm Marly👋 
+### Hello World, I'm Marly <img src="https://raw.githubusercontent.com/MarlyKhoury/MarlyKhoury/master/wave.gif" width="30px">
 
 ## I'm a Self-Taught Full Stack Web Developer !!
 
