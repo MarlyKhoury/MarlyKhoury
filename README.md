@@ -34,7 +34,7 @@
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 <br/>
-  <img align="left" alt="MarlyKhoury's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MarlyKhoury)" />
+  <img align="left" alt="MarlyKhoury's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarlyKhoury" />
 
 <!-- </details> -->
 
