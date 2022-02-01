@@ -39,16 +39,17 @@
 <br />
 <br />
 ---
+<h2>:thought_balloon: Quote of the day</h2>
+
   <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlyKhoury&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </p>
 
 
 
-<h2>:thought_balloon: Quote of the day</h2>
 <!-- <details open> -->
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+<p>    <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card" />
-    </a>
+    </a></p>
 <!-- </details> -->
 <h2>:zany_face: Joke of the day</h2>
 <!-- <details> -->
