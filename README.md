@@ -33,28 +33,30 @@
 
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
-<br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlyKhoury&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<br />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlyKhoury&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <br />
 <br />
-
- <h2> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlyKhoury&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </h2>
+---
+  <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlyKhoury&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </p>
 
 
 
 <h2>:thought_balloon: Quote of the day</h2>
-
+<!-- <details open> -->
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card" />
     </a>
-
+<!-- </details> -->
 <h2>:zany_face: Joke of the day</h2>
-
+<!-- <details> -->
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
-
+<!-- </details> -->
+<!-- </details> -->
 
 [instagram]: https://instagram.com/marlykhoury
 [linkedin]:  https://www.linkedin.com/in/marly-khoury-542501167/
