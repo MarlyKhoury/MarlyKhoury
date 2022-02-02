@@ -55,4 +55,4 @@
 
 
 [instagram]: https://instagram.com/marlykhoury
-[linkedin]:  https://www.linkedin.com/in/marly-khoury-542501167/
+[linkedin]:  https://www.linkedin.com/in/marly-khoury/
